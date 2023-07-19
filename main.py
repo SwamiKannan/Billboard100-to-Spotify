@@ -1,4 +1,4 @@
-from Spotify_playlist_creator import SpotifyPlaylist
+from src.Spotify_playlist_creator import SpotifyPlaylist
 
 
 def main():
