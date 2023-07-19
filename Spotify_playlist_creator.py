@@ -4,7 +4,6 @@ import calendar
 import json
 import os
 
-# USERID = 'inkognito5382'
 
 
 def process_names(track_name: str):
