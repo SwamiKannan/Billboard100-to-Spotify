@@ -6,7 +6,7 @@
 This repo creates a Spotify playlist based on the Hot 100 playlist on any specific date.
 You will need the following details about your Spotify account
 <ul>
- <li>Your Spotify username </li>li>
+ <li>Your Spotify username </li>
  <li>A Spotify developer account</li>
  <li>Your client id (from Spotify)</li>
  <li>Your client secret key (from Spotify) </li>
