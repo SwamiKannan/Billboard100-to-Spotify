@@ -1,0 +1,160 @@
+Please enter the date chosen in "DD/MM/YYYY" format
+19/4/1987
+How many songs do you want in your playlist? Type 1,2 etc for number of songs or press "Enter" for all songs.
+All songs selected
+
+List of songs extracted....
+
+Final list:
+I Knew You Were Waiting (For Me) by Aretha Franklin & George Michael
+Don't Dream It's Over by Crowded House
+Sign 'O' The Times by Prince
+Looking For A New Love by Jody Watley
+(I Just) Died In Your Arms by Cutting Crew
+Nothing's Gonna Stop Us Now by Starship
+La Isla Bonita by Madonna
+The Finer Things by Steve Winwood
+Midnight Blue by Lou Gramm
+With Or Without You by U2
+Walking Down Your Street by The Bangles
+Stone Love by Kool & The Gang
+Lean On Me by Club Nouveau
+Dominoes by Robbie Nevil
+Come As You Are by Peter Wolf
+What's Going On by Cyndi Lauper
+Come Go With Me by Expose
+Heat Of The Night by Bryan Adams
+The Lady In Red by Chris de Burgh
+Can'tcha Say (You Believe In Me)/Still In Love by Boston
+Talk Dirty To Me by Poison
+Big Love by Fleetwood Mac
+Serious by Donna Allen
+Nothing's Gonna Change My Love For You by Glenn Medeiros
+Right On Track by The Breakfast Club
+Tonight, Tonight, Tonight by Genesis
+Ship Of Fools (Save Me From Tomorrow) by World Party
+I Know What I Like by Huey Lewis & The News
+You Keep Me Hangin' On by Kim Wilde
+Let's Go! by Wang Chung
+Se La by Lionel Richie
+Smoking Gun by The Robert Cray Band
+Always by Atlantic Starr
+If She Would Have Been Faithful. . . by Chicago
+The Right Thing by Simply Red
+Wanted Dead Or Alive by Bon Jovi
+Get That Love by Thompson Twins
+Day-In Day-Out by David Bowie
+Meet Me Half Way by Kenny Loggins
+You Can Call Me Al by Paul Simon
+Let's Wait Awhile by Janet Jackson
+Heartbreak Beat by Psychedelic Furs
+The Honeythief by Hipsway
+The Final Countdown by Europe
+Fascinated by Company B
+Show Me by The Cover Girls
+Diamonds by Herb Alpert
+Brass Monkey by Beastie Boys
+What You Get Is What You See by Tina Turner
+Mandolin Rain by Bruce Hornsby & The Range
+In Too Deep by Genesis
+Somewhere Out There (From "An American Tail") by Linda Ronstadt & James Ingram
+Head To Toe by Lisa Lisa And Cult Jam
+Boom Boom (Let's Go Back To My Room) by Paul Lekakis
+Just To See Her by Smokey Robinson
+Lessons In Love by Level 42
+Songbird by Kenny G
+There's Nothing Better Than Love by Luther Vandross with Gregory Hines
+I Will Be There by Glass Tiger
+As We Lay by Shirley Murdock
+Light Of Day by The Barbusters (Joan Jett And The Blackhearts)
+Same Ole Love (365 Days A Year) by Anita Baker
+Living In A Dream by Pseudo Echo
+The Secret Of My Success by Night Ranger
+Keep Your Eye On Me by Herb Alpert
+I'm No Angel by The Gregg Allman Band
+I Got The Feelin' (It's Over) by Gregory Abbott
+You Got It All by The Jets
+Don't Disturb This Groove by The System
+Endless Nights by Eddie Money
+Young Blood by Bruce Willis
+Don't Give Up by Peter Gabriel/Kate Bush
+I'll Still Be Loving You by Restless Heart
+It's Tricky by Run-D.M.C.
+Baby Grand by Billy Joel featuring Ray Charles
+Big Time by Peter Gabriel
+That Ain't Love by REO Speedwagon
+We Are What We Are by The Other Ones
+Livin' On A Prayer by Bon Jovi
+Should I See by Frozen Ghost
+Winner Takes It All by Sammy Hagar
+Black Dog by Newcity Rockers
+Why Can't This Night Go On Forever by Journey
+Jammin' Me by Tom Petty And The Heartbreakers
+Wild Horses by Gino Vannelli
+Back And Forth by Cameo
+I Wanna Go Back by Eddie Money
+Never Enough by Patty Smyth
+Go See The Doctor by Kool Moe Dee
+I'll Be Alright Without You by Journey
+Somebody Save Me by Cinderella
+Shy Girl by Stacey Q
+Jacob's Ladder by Huey Lewis & The News
+Sweet Sixteen by Billy Idol
+Sexappeal by Georgio
+Something In My House by Dead Or Alive
+Dirty Water by Rock And Hyde
+Brand New Lover by Dead Or Alive
+He Wants My Body by Starpoint
+Battleship Chains by The Georgia Satellites
+
+The list of songs is also available at:  https://www.billboard.com/charts/hot-100/1987-04-19/
+
+Getting track ids.....
+Come As You Are
+Can'tcha Say(You Believe In Me)/Still In Love
+Right On Track
+Right On Track
+Ship Of Fools(Save Me From Tomorrow)
+If She Would Have Been Faithful. . .
+Somewhere Out There(From "An American Tail")
+There's Nothing Better Than Love
+Light Of Day
+Young Blood
+Don't Give Up
+I'll Still Be Loving You
+Baby Grand
+Black Dog
+Never Enough
+I'll Be Alright Without You
+Sexappeal
+Dirty Water
+Track ids received
+
+A few tracks could not be found:
+Come As You Are by Peter Wolf
+Can'tcha Say (You Believe In Me)/Still In Love by Boston
+Ship Of Fools (Save Me From Tomorrow) by World Party
+If She Would Have Been Faithful. . . by Chicago
+Somewhere Out There (From "An American Tail") by Linda Ronstadt & James Ingram
+There's Nothing Better Than Love by Luther Vandross with Gregory Hines
+Light Of Day by The Barbusters (Joan Jett And The Blackhearts)
+Young Blood by Bruce Willis
+Don't Give Up by Peter Gabriel/Kate Bush
+I'll Still Be Loving You by Restless Heart
+Baby Grand by Billy Joel featuring Ray Charles
+Black Dog by Newcity Rockers
+Never Enough by Patty Smyth
+I'll Be Alright Without You by Journey
+Sexappeal by Georgio
+Dirty Water by Rock And Hyde
+
+
+Creating your playlist :) .....
+Playlist created
+
+Adding your songs to the playlist!
+Songs added !
+
+Go ahead ! Check out your new playlist!
+
+Process finished with exit code 0
