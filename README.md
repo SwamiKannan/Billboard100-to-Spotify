@@ -19,8 +19,8 @@ You can get the client id and client secret as follows:
  <li>Once you are logged in, go to the account name, drop down and click on "Dashboard"</li><br>    
  <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/2.png"><br /><br />
 
- <li> This will show you the list of apps you may have created in the past. If the first time, you are accessing the developers page, the list will be empty. For this repo, I created the Billboard Top 100 app so it displays the app here.Your list might be empty.<br />  
- Click on Create App</li>
+ This will show you the list of apps you may have created in the past. If the first time, you are accessing the developers page, the list will be empty. For this repo, I created the Billboard Top 100 app so it displays the app here.Your list might be empty.<br />  
+<li>  Click on Create App</li>
  <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/3.png"><br /><br />
 </ol>
 
