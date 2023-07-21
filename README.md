@@ -23,7 +23,9 @@ You can get the client id and client secret as follows:
 <li>  Click on Create App</li>
  <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/3.png"><br /><br />
 <li> Fill in the app name, the app description and the website as per your preferences. A sample is shown in the screenshot below. However, fill the Redirect URI <b>exactly</b> as shown.<br />
-CLick on the checkbox that says "I understand and agree with Spotify's Developer Terms of Service and Design Guidelines after reading them and click "Save"</li>
+CLick on the checkbox that says "I understand and agree with Spotify's Developer Terms of Service and Design Guidelines after reading them and click "Save"</li><br />
 <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/4.png"><br /><br />
+<li>Your app's homepage is now displayed. This page shows you all the statistics of your app. Click on "Settings" on the top right hand side of the page</li><br />
+<img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/5.png"><br /><br />
 </ol>
 
