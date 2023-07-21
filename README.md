@@ -31,7 +31,9 @@ CLick on the checkbox that says "I understand and agree with Spotify's Developer
 Click on the icon next to your client id. This will copy your Client Id.</li><br />
 <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/6.png"><br /><br />
 <li>To use the client id and client secret on this app, there are three ways to incorporate these details into the app:
-<ul><li>Saving the client id and client secret in the environment variables: Save the client id in the key: 'spotify_client_id' and the secret in the key: 'spotify_secret_id' </li></li><br />
+<ul><li>Saving the client id and client secret in the environment variables: Save the client id in the key: 'spotify_client_id' and the secret in the key: 'spotify_secret_id' </li>
+<li>Open the keys_spotify.json file in this repo. Add the client id between the quotes next to the text "client_id". Add the client secret between the quotes next to the text "client_secret". <br />
+<b>NOTE: Anyone who can access this JSON will be able to see your client id and client secret and hence, will be able to access and make changes to your app. Hence, please ensure that this file is stored in a safe location</li></li><br />
 <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/6.png"><br /><br />
 </ol>
 
