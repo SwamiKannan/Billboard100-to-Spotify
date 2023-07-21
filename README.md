@@ -27,5 +27,8 @@ CLick on the checkbox that says "I understand and agree with Spotify's Developer
 <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/4.png"><br /><br />
 <li>Your app's homepage is now displayed. This page shows you all the statistics of your app. Click on "Settings" on the top right hand side of the page</li><br />
 <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/5.png"><br /><br />
+<li>In the Settings page, you will finally get your Client Id and Client Secret.<br />
+Click on the icon next to your client id. This will copy your Client Id.</li><br />
+<img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/6.png"><br /><br />
 </ol>
 
