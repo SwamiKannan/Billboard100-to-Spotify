@@ -29,6 +29,6 @@ To use the client id and client secret on this app, there are three ways to inco
 
 <li>Click on "View Client Secret"<br />
 The page then displays the Client Secret code as well. Copy this by clicking on the icon displayed on the right of the text box.<br /> Save this as explained in step 6.</li><br />
-<img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/spotify_creds/7.png"><br /><br />
+<img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/get_spotify_creds/screenshots/7.png"><br /><br />
 </ol>
 
