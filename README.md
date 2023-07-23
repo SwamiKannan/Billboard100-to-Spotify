@@ -18,10 +18,19 @@ This repo creates a Spotify playlist based on the Hot 100 playlist on any specif
 If you do not know how to get your Client Id and Client Secret keys from Spotify, you can follow the instructions <a href="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/get_spotify_creds/README.md"> here </a><br>
 
 ## Installation:
-<ol>
-  <li>1. Download this git repo using:</li>
- `git clone https://github.com/SwamiKannan/Billboard100-to-Spotify.git`
-  <li> Install the requirement libraries</li>
- `pip install -e requirements.txt
-</ol>
+
+  1. Download this git repo using:<br>
+ `git clone https://github.com/SwamiKannan/Billboard100-to-Spotify.git`<br><br>
+  2. Install the requirement libraries <br>
+ `pip install -e requirements.txt`
+
+
+## Usage:
+1. Run the code in the command prompt<br>
+`python main.py`<br><br>
+2. The code will ask you for the date for which you want to Billboard top 100 playlist. Enter the date in <b>dd/mmy/yyyy format</b><br><br>
+3. If the Spotify client id and client secret are not stored either in the environment variables or in the provided json format, the prompt will then ask for the appropriate keys. Please provide the same.<br><br>
+4. Finally, the app will ask you for your Spotify username. Please provide the same.<br><br>
+5. On completion, you will be able to see the playlist on your Spotify account named <b>"Billboard Hot 100 for < date > "</b><br><br>
+6. ENJOY !
 
