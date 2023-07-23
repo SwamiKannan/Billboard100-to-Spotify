@@ -3,14 +3,14 @@
 You can get the client id and client secret as follows:
 <ol> 
 <li>Go to developers.spotify.com and click "Log in"</li><br />
- <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/screenshots/1.png"><br /><br />  
+ <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/get_spotify_creds/screenshots/1.png"><br /><br />  
 
  <li>Once you are logged in, go to the account name, drop down and click on "Dashboard"</li><br>    
- <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/screenshots/2.png"><br /><br />
+ <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/get_spotify_creds/screenshots/2.png"><br /><br />
 
  This will show you the list of apps you may have created in the past. If the first time, you are accessing the developers page, the list will be empty. For this repo, I created the Billboard Top 100 app so it displays the app here.Your list might be empty.<br />  
 <li>  Click on Create App</li>
- <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/screenshots/3.png"><br /><br />
+ <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/get_spotify_creds/screenshots/3.png"><br /><br />
 <li> Fill in the app name, the app description and the website as per your preferences. A sample is shown in the screenshot below. However, fill the Redirect URI <b>exactly</b> as shown.<br />
 CLick on the checkbox that says "I understand and agree with Spotify's Developer Terms of Service and Design Guidelines after reading them and click "Save"</li><br />
 <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/screenshots/4.png"><br /><br />
