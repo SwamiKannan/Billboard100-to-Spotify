@@ -1,3 +1,8 @@
+<p align='center'>
+<img src= "https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/get_spotify_creds/secret.png" align="center" width=30%><br>
+</p>
+<br>
+
 # How to get your Spotify Client id and Client Secret
 
 You can get the client id and client secret as follows:
@@ -32,3 +37,6 @@ The page then displays the Client Secret code as well. Copy this by clicking on 
 <img src="https://github.com/SwamiKannan/Billboard100-to-Spotify/blob/main/get_spotify_creds/screenshots/7.png"><br /><br />
 </ol>
 
+<p align='center'>
+<sub>Image credit: <a href="https://www.flaticon.com/free-icons/lock" title="lock icons">Lock icons created by Freepik - Flaticon</a></sub>
+</p>
