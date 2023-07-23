@@ -1,4 +1,4 @@
-#How to get your Spotify Client id and Client Secret
+# How to get your Spotify Client id and Client Secret
 
 You can get the client id and client secret as follows:
 <ol> 
